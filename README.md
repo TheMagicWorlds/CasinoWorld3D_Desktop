@@ -39,11 +39,11 @@ _Casino World_ is your premier virtual destination for an immersive casino exper
 
 ## **🎮Gameplay & Features**
 
-- 🎰 Diverse Casino Games: Enjoy slots, poker, blackjack, bingo, and more.
-- 🏢 Build Your Casino Empire: Construct luxury hotels, dance clubs, and slot halls that generate additional coins.
-- 🎉 Live Parties: Host and join parties with friends, sharing charms to boost winnings.
-- 🃏 Seasonal Challenges: Participate in challenges and earn special bonuses.
-- 🕺 Customizable Avatars: Create and personalize your avatar with various outfits and dance moves.
+- **🎰 Diverse Casino Games**: Enjoy slots, poker, blackjack, bingo, and more.
+- **🏢 Build Your Casino Empire**: Construct luxury hotels, dance clubs, and slot halls that generate additional coins.
+- **🎉 Live Parties**: Host and join parties with friends, sharing charms to boost winnings.
+- **🃏 Seasonal Challenges**: Participate in challenges and earn special bonuses.
+- **🕺 Customizable Avatars**: Create and personalize your avatar with various outfits and dance moves.
 
 ## **⚙️Technical Details**
 
